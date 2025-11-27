@@ -1,0 +1,1 @@
+Here is the updated codebase with methods converted into 'public static void' and additional adjustments to ensure implementation accuracy. The gender/sex collection and optional 'back/cancel' prompts are retained. Please verify testing aligns.
